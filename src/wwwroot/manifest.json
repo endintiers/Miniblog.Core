@@ -1,7 +1,7 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
-  "description": "A short description of the blog.",
+  "name": "Unearth Developers Blog",
+  "short_name": "Unearth Blog",
+  "description": "Interesting snippits from the developers of Unearth.ai",
   "icons": [
     {
       "src": "/img/icon192x192.png",
